@@ -23,6 +23,13 @@ nav ul {
 	padding: 0;
 }
 
+.social-links {
+	position: relative;
+	z-index: 10;
+	text-align: center;
+	padding: 20px;
+}
+
 .social-links a {
 	text-align: center;
 	padding: 20px;
