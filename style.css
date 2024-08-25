@@ -23,6 +23,28 @@ nav ul {
 	padding: 0;
 }
 
+.social-links a {
+	text-align: center;
+	padding: 20px;
+}
+
+.social-links a {
+	margin: 0 15px;
+	text-decoration: none;
+	font-size: 30px;
+	color: #333;
+	transition: color 0.3s ease;
+}
+
+.social-links a:hoover {
+	color: #FF0000;
+}
+
+.social-links .instagram {color: #C13584;}
+.social-links .facebook {color: #3b5998;}
+.social-links .tictok {color: #010101;}
+.social-links .youtube {color: #FF0000;}
+
 nav ul li {
 	display: inline;
 	margin: 0 15px;
