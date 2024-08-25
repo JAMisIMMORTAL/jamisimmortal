@@ -23,6 +23,16 @@ nav ul {
 	padding: 0;
 }
 
+.email-link {
+	color:#333;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.email-link:hover {
+	text-decoration: underline;
+}
+	
 .social-links {
 	position: relative;
 	z-index: 10;
